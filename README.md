@@ -2,6 +2,7 @@
 
 <p> 🛠️ Técnico em Informática para Internet na ETEC Prefeito Alberto Feres </p>
 <p>🎓 Graduando Tecnologia da Informação na UNIVESP</p>
+<P> 📫 Contato matheusmuniz2010@live.com</P>
 
 
 <p align="left">
