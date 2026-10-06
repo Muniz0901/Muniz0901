@@ -1,7 +1,7 @@
 ## 👨‍💻 Tecnologias
 
-🛠️ Técnico em Informática para Internet na ETEC Prefeito Alberto Feres
-🎓 Graduando Tecnologia da Informação na UNIVESP
+<p> 🛠️ Técnico em Informática para Internet na ETEC Prefeito Alberto Feres </p>
+<p>🎓 Graduando Tecnologia da Informação na UNIVESP</p>
 
 
 <p align="left">
